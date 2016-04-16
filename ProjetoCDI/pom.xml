@@ -54,7 +54,7 @@
 			<version>1.0.10</version>
 		</dependency>
 
-		<!-- -->
+		<!-- CDI -->
 		<dependency>
 			<groupId>org.jboss.weld.servlet</groupId>
 			<artifactId>weld-servlet</artifactId>
